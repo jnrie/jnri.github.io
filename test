@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>じゅりの惑星</title>
+        <link rel="shortcut icon" href="https://i.imgur.com/EbGzdZm.png">
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    </head>
+    
+    <body>
+        <div align=center><img src="https://64.media.tumblr.com/df12760381cd958d7c007174f3d1f6b5/ce88cb566f01b466-7f/s2048x3072/b069c0710b90d190a55c82ecc09bc573f207ea3b.gif" width="25%" style="vertical-align:middle;margin:0px 0px">
+    
+            <div id="box"><p>A home, a garden</p><p>On a different planet</p><p>A world of my own</p>
+            <nav><a href="/">link</a>
+            <a href="/"> </a></nav>
+        </div>
+            <iframe width="380" height="190" src="https://www.youtube-nocookie.com/embed/PFESyl7WkvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="box"><details class="mydetails">
+    <summary>Introduction</summary>
+    <p>Hello! My name is Juriヾ(´･ ･｀)ノ”</p><p>I have a dream that, when my mind becomes quiet, I will spend my life simply and contentedly.</p><p>I wanted to create a place to call home for the world inside of my head.<p>Thank you!</p>
+</details>
+            <details class="mydetails">
+    <summary>Planet</summary>
+    <p>It is described as a different planet here, as I often feel like a stranger on Earth and wish that I could live on a planet of my own, all on my own.</p><p>The theme is also inspired by one of my favorite novels, <i>The Little Prince</i>, whose titular character meets various characters on different planets and on Earth.</p>
+</details></div>
+        </div>
+
+    <style>
+        body {
+        background-color: #e7dfcc;
+        font-family: MS Gothic; font-size: 10px; color: #6E6F36; line-height: 10px;
+        cursor: url(http://static.tumblr.com/p7wg3p9/o3jmn8igq/tiny.png), pointer;
+        ::selection { background-color: #d58353; }
+    }
+    
+a{
+        color: #d58353;
+        text-decoration:none; 
+    }
+    
+a:hover{ 
+        color: #d4b8be;
+        text-decoration:none; 
+    }
+    
+#box {
+  width: 350px;
+  height: 80px;
+  border: 0px solid #f8f5ed;
+  background-color: #f8f5ed;
+  padding: 15px;
+  overflow-x: hidden;
+}
+    </style>
+    
+    </body>
+    
+</html>
